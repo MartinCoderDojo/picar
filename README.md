@@ -9,8 +9,8 @@ For this project you need:
 * Battery pack or USB power supply
 * Parts to build the robot chassis and axels (we used straws, wooded skewers and the tin from a CamJam kit)
 
-![alt text](https://github.com/MartinCoderDojo/picar/picar1.jpg "Picar Side View")
-![alt text](https://github.com/MartinCoderDojo/picar/picar2.jpg "Picar Front View")
+![alt text](https://github.com/MartinCoderDojo/picar/raw/master/picar1.jpg "Picar Side View")
+![alt text](https://github.com/MartinCoderDojo/picar/raw/master/picar2.jpg "Picar Front View")
   
 picar.py - Lets you control the robot using the capacitive touch pads. 1 for forwards, 2 for backwards, 3 for left and 4 for right.
 
