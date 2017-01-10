@@ -7,7 +7,7 @@ For this project you need:
 * 2 motors and wheels
 * 4 male to female jumper cables
 * Battery pack or USB power supply
-* Parts to build the robot chassis and axels (we used straws, wooded skewers and the tin from a CamJam kit)
+* Parts to build the robot chassis and axels (we used straws, wooden skewers and the tin from a CamJam kit)
 
 ![alt text](https://github.com/MartinCoderDojo/picar/raw/master/picar1.jpg "Picar Side View")
 ![alt text](https://github.com/MartinCoderDojo/picar/raw/master/picar2.jpg "Picar Front View")
